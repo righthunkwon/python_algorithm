@@ -1,4 +1,4 @@
-num1, num2, num3 = map(int,input().split())
+num1, num2, num3 = map(int, input().split())
 if num1 == num2 == num3 :
     print(10000 + (num1 * 1000))
 elif num1 == num2 :
